@@ -1,3 +1,4 @@
+//To get TTN work with Telegram Bot
 var ttn = require('ttn');
 var appEUI = '70B3D57ED0000BC6';
 var accessKey = 'bOMgdxB78BnKKSn5DPGru6PmBV+RX7Me9sshhAY/Fys=';
